@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/myplans/react_upload/static/css/main.8da51e99.chunk.css",
+    "main.js": "/myplans/react_upload/static/js/main.ec73acff.chunk.js",
+    "main.js.map": "/myplans/react_upload/static/js/main.ec73acff.chunk.js.map",
+    "runtime-main.js": "/myplans/react_upload/static/js/runtime-main.42710d43.js",
+    "runtime-main.js.map": "/myplans/react_upload/static/js/runtime-main.42710d43.js.map",
+    "static/css/2.95f21167.chunk.css": "/myplans/react_upload/static/css/2.95f21167.chunk.css",
+    "static/js/2.f8b711d2.chunk.js": "/myplans/react_upload/static/js/2.f8b711d2.chunk.js",
+    "static/js/2.f8b711d2.chunk.js.map": "/myplans/react_upload/static/js/2.f8b711d2.chunk.js.map",
+    "static/js/3.0bc4b7db.chunk.js": "/myplans/react_upload/static/js/3.0bc4b7db.chunk.js",
+    "static/js/3.0bc4b7db.chunk.js.map": "/myplans/react_upload/static/js/3.0bc4b7db.chunk.js.map",
+    "index.html": "/myplans/react_upload/index.html",
+    "static/css/2.95f21167.chunk.css.map": "/myplans/react_upload/static/css/2.95f21167.chunk.css.map",
+    "static/css/main.8da51e99.chunk.css.map": "/myplans/react_upload/static/css/main.8da51e99.chunk.css.map",
+    "static/js/2.f8b711d2.chunk.js.LICENSE.txt": "/myplans/react_upload/static/js/2.f8b711d2.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/myplans/react_upload/static/media/Weather_Back_image.05978746.jpg",
+    "static/media/weather-icons.css": "/myplans/react_upload/static/media/weathericons-regular-webfont.e218aee6.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42710d43.js",
+    "static/css/2.95f21167.chunk.css",
+    "static/js/2.f8b711d2.chunk.js",
+    "static/css/main.8da51e99.chunk.css",
+    "static/js/main.ec73acff.chunk.js"
+  ]
+}
